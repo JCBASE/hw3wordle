@@ -1,5 +1,3 @@
-//import logo from './logo.svg';
-import './App.css';
 import WordleContainer from './components/WordleContainer';
 
 function App() {
