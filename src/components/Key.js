@@ -1,3 +1,4 @@
+import '../css/keypad.css';
 
 const Key = (props) => {
     return(
@@ -14,6 +15,7 @@ const Key = (props) => {
             alert(props.text)
         }}
 ></div>
+{props.text}
         </div>
     )
 }
